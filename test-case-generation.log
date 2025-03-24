@@ -1,0 +1,43 @@
+1742723433421:help
+1742723475683:generate-method -filePath=krishna
+1742723527105:generate-method --filePath krishna
+1742723550729:generate-file -filePath krishna
+1742723612110:generate-file --filePath /Users/krishna/project/test-case-generation/src/main/java/com/unit/test/generator/test_case_generation/command/Command.java
+1742724703300:generate-file --filePath sdnflsdfsdf
+1742725014663:help
+1742725037562:generate-file --fileName dffsdf
+1742725059468:generate-file --filePath krkr
+1742726841740:help
+1742726852548:generate-file --filePath sdf
+1742728357192:help
+1742728421498:generate-method --filePath kddsnfk --methodName fdksdf
+1742728653781:help
+1742728699844:generate-method --filePath dfsdf --methodName skdfuhsdkf
+1742730789964:help
+1742730794060:history
+1742730808708:generate-method --filePath dfsdf --methodName skdfuhsdkf
+1742736569324:help
+1742736587367:generate-method --filePath sdsdf --methodName dsdf
+1742742780687:help
+1742742817042:generate-method --filePath kkroisdof --methodName sdnflknsd
+1742747350378:history
+1742747369210:generate-method --filePath kkroisdof --methodName sdnflknsd
+1742757089618:help
+1742757120825:generate-method --filePath kkke --methodName dklnfsdf
+1742814946738:generate-method --filePath fdgdfg --methodName fdfgfg
+1742819155570:help
+1742819179344:generate-file --filePath sdfsdf --methodName sdfsdf
+1742819466022:generate-method --filePath sdfsdf --methodName sdfsdf
+1742823284539:history
+1742823295894:generate-method --filePath sdfsdf --methodName sdfsdf
+1742824670871:history
+1742824682467:generate-method --filePath sdfsdf --methodName sdfsdf
+1742825062267:history
+1742825090315:generate-method --filePath sdfsdf --methodName sdfsdf
+1742825987300:history
+1742826006717:generate-method --filePath dfsdf --methodName skdfuhsdkf
+1742826193350:history
+1742826474741:generate-method --filePath dfsdf --methodName skdfuhsdkf
+1742833685608:generate-method --filePath /Users/krishna/Documents/paperflite-api/core/src/main/java/com/paperflite/services/assets/CloneAssetService.java --methodName cloneAsset --outputFile /Users/krishna/Documents/paperflite-api/core/src/test/java/com/paperflite/services/impl
+1742833723587:generate-method --filePath /Users/krishna/Documents/paperflite-api/core/src/main/java/com/paperflite/services/assets/CloneAssetService.java --methodName cloneAsset --outputFolder /Users/krishna/Documents/paperflite-api/core/src/test/java/com/paperflite/services/impl
+1742833921211:generate-method --filePath /Users/krishna/Documents/paperflite-api/core/src/main/java/com/paperflite/services/assets/impl/CloneAssetServiceImpl.java --methodName cloneAsset --outputFolder /Users/krishna/Documents/paperflite-api/core/src/test/java/com/paperflite/services/impl
